@@ -1,0 +1,4 @@
+CAF.in RESOLUSI
+- Konsisten untuk belajar ngoding 2x seminggu
+- Belajar tentang apa itu html, css, dan javascript
+- Membuat forum diskusi
